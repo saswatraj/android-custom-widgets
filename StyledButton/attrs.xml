@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="StyledButton">
+        <attr name="btext" format="string" />
+        <attr name="bimg" format="string" />
+    </declare-styleable>
+</resources>
