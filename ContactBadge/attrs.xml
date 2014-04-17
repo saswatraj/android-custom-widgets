@@ -1,0 +1,9 @@
+<resources>
+	<declare-styleable name="ContactBadge">
+			<attr name="contact_image" format="string" />
+			<attr name="contact_name" format="string" />
+			<attr name="contact_number" format="string" />
+			<attr name="incoming_calls" format="string" />
+			<attr name="outgoing_calls" format="string" />
+	</declare-styleable>
+</resources>
