@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MeterCircle">
+        <attr name="initValue" format="dimension"/>
+        <attr name="bgColor" format="color" />
+        <attr name="meterColor" format="color"/>
+        <attr name="mpathColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="ipadding" format="dimension"/>
+        <attr name="strokeWidth" format="integer"/> 
+    </declare-styleable>
+</resources>
